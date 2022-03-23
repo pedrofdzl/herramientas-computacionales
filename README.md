@@ -1,7 +1,7 @@
 # Markdown Herramientas Computacionales
-# Pedro Andres Fernandez Lopez
-## Pedro Andres Fernandez Lopez
-### Pedro Andres Fernandez Lopez
+# Pedro Andres Fernandez Lopez - ITC - 4to semestre
+## Pedro Andres Fernandez Lopez - ITC - 4to semestre
+### Pedro Andres Fernandez Lopez - ITC - 4to semestre
 
 # Guia de MarkDown
 [link a guia](https://www.markdownguide.org/cheat-sheet/)
