@@ -79,9 +79,9 @@
 3. Los Picapiedra
 
 # Listas Anidadas
--Primer Concierto
-    -Primer pijamada
-        -Panda
+- Primer Concierto
+    - Primer pijamada
+        - Panda
 
 # Lista de Tareas
 - [x] #739
